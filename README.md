@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=120&section=header&text=Levi Martins&fontSize=30&fontColor=fff&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=120&section=header"/>
 
 ### Opa, tudo bem? Me chamo Levi Martins 👋
 
