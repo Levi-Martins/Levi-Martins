@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=120&section=header"/>
 
-## Opa, tudo bem? Me chamo Levi Martins 👋
+<div align="center">
+  
+  ## Opa, tudo bem? Me chamo Levi Martins 👋
+  
+</div>
+
 
 - Sou estudante da Universidade Federal do Ceará.
 
@@ -12,7 +17,7 @@
 
 - Estou aberto a colaborações e feedbacks construtivos
 
-- Você pode me encontrar no [martinslevi555@gmail.com] ou nas minhas redes sociais listadas abaixo.
+- Você pode me contacer no email [martinslevi555@gmail.com] ou nas minhas redes sociais listadas abaixo.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-martins-aa9ab8188/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levi_mart1ns/)
