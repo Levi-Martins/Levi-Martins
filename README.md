@@ -17,7 +17,7 @@
 
 - Estou aberto a colaborações e feedbacks construtivos
 
-- Você pode me contacer no email [martinslevi555@gmail.com] ou nas minhas redes sociais listadas abaixo.
+- Você pode me contactar no email [martinslevi555@gmail.com] ou nas minhas redes sociais listadas abaixo.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-martins-aa9ab8188/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levi_mart1ns/)
