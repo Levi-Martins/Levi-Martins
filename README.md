@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=120&section=header"/>
 
-### Opa, tudo bem? Me chamo Levi Martins 👋
+## Opa, tudo bem? Me chamo Levi Martins 👋
 
 - Sou estudante da Universidade Federal do Ceará.
 
