@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d12828&height=150&section=header&text=Levi+Martins&fontAlignY=35&fontSize=40&fontColor=fff&fontAlaigny=35"/>
 
 <div align="center">
   
@@ -23,7 +23,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levi_mart1ns/)
 
 ![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=Levi-Martins&show_icons=true&theme=tokyonight)
-
 
 ## Hard Skills:
 
